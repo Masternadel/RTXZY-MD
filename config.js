@@ -3,23 +3,23 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6288290336559']  // isi jika perlu
+global.mods = ['6288290336559']   // isi jika perlu
+global.prems = ['6288290336559']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '6282xxxxxx' // isi nomor kalian dengan awalan seperti di contoh 
+global.numberowner = '6288290336559' // isi nomor kalian dengan awalan seperti di contoh 
 global.instagram = 'https://instagram.com/prm2.0' // isi Instagram kalian harus link
 global.github = 'https://github.com/BOTCAHX' // gausah di isi juga gpp bro
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
-global.gopay = ''
+global.dana = '6288290336559' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6288290336559' // isi dengan nomor pulsa hp kalian
+global.gopay = '6288290336559'
 
 //Name Bot & Grouplink//
 global.namebot = 'R-txzyMd'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'kazekage-nadel.blogspot.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //Tanpilan wm Bot ( Sebagian Tidak di fungsi kan)//
@@ -29,8 +29,8 @@ global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© R-TXZY-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ Kazekage Nadel'
+global.wm3 = '© Kazekage Nadel'
 global.wm4 = '© 2021/2022'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -42,7 +42,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\Kazekage Nadel'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
