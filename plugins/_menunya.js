@@ -54,7 +54,7 @@ const defaultMenu = {
 │ • Waktu: %time
 │ • Tanggal: %date
 │ • Version : %version
-│ • Prefix Used : *[ .kz ]*
+│ • Prefix Used : *[ %p ]*
 │ • Database : %rtotalreg dari %totalreg 
 │ • Memory Used : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 │ • Free Apikey : bit.ly/freeapikey
