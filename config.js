@@ -84,6 +84,7 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'zekais',
   'https://api.lolhuman.xyz': 'Deffbotz',
+'https://botcahx-rest-api.herokuapp.com'
 }
 
 //Setting Rpg//
