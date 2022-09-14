@@ -25,7 +25,7 @@ global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 //Tanpilan wm Bot ( Sebagian Tidak di fungsi kan)//
 global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
-global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
+global.lolkey = '85faf717d0545d14074659ad' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© R-TXZY-MD'
 global.watermark = wm
@@ -82,7 +82,7 @@ global.APIKeys = { // APIKey Here
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
+  'https://zekais-api.herokuapp.com': 'zekais',
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 
