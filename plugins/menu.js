@@ -123,7 +123,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       return {
         help: Array.isArray(plugin.tags) ? plugin.help : [plugin.help],
         tags: Array.isArray(plugin.tags) ? plugin.tags : [plugin.tags],
-        prefix: 'customPrefix' in plugin,
+        prefix: '.kz' in plugin,
         limit: plugin.limit,
         premium: plugin.premium,
         enabled: !plugin.disabled,
